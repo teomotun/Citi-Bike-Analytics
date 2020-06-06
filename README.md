@@ -9,10 +9,9 @@
   <a href="#technology-Used">Technology Used</a>
 </p>
 
-A analysis for the New York Citi Bike Program, in which responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States
- in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey
+An analysis of the New York Citi's Bike Program which is responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States in order to generate business insights through visualization of the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey
  
-* Click [here](https://public.tableau.com/profile/davidgu#!/vizhome/citibikeanalysis/Forcityofficials?publish=yes) to view complted dashboard
+* Click [here](https://public.tableau.com/profile/toluwalashe.omotunde#!/vizhome/NewYorksCitibikeanalysis/Forcityofficials?publish=yes) to view completed dashboard
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/top_location.png)
 
